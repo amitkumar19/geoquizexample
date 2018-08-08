@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="first">This is the 1st Demo Question?</string>
+    <string name="second">This is the 2nd Demo Question?</string>
+    <string name="third">This is the 3rd Demo Question?</string>
+    <string name="fourth">This is the 4th Demo Question?</string>
+    <string name="qufalse">false</string>
+    <string name="qutrue">true</string>
+    <string name="correcttoast">True</string>
+    <string name="incorrecttoast">False</string>
+    <string name="next">Next</string>
+    <string name="judgment">Cheating is wronge.</string>
+    <string name="show_answere">show answere</string>
+    <string name="warning">Are you sure to cheat ?</string>
+</resources>
